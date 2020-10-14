@@ -1,6 +1,6 @@
 # Decision tree for letter recognition
 
-[](images/visualisation.png)
+![](images/visualisation.png)
 
 A decision tree classifier built from scratch to recognise digits. 
 
